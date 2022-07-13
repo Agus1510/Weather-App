@@ -1,0 +1,23 @@
+
+.bar{
+border-radius: 50em;
+background-color: rgb(45, 120, 182);
+border: none;
+color: white;
+position: relative;
+width: 15em;
+
+}
+
+.bar img {
+    position: absolute;
+    top: 5%;
+    right: 10px;
+
+}
+
+input::placeholder {
+    color: rgb(255, 255, 255);
+    opacity: 70%;
+    text-align: center; 
+  }

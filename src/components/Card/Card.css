@@ -1,0 +1,33 @@
+.card {
+  margin: 20px;
+  width: 18rem;
+  background-size: cover;
+  border-radius: 1em;
+  box-shadow: 10px 10px 88px -27px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 10px 10px 88px -27px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 88px -27px rgba(0,0,0,0.75);
+
+}
+
+.card-title {
+  margin-bottom: 15px;
+  text-shadow: 4px 0 2px black;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+  border-radius: 1em;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+
+.minmax{
+  text-shadow: 2px 0 1px black;
+  margin-top: 15px;
+}
